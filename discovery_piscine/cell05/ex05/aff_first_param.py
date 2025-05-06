@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import sys
 
 n = len(sys.argv)

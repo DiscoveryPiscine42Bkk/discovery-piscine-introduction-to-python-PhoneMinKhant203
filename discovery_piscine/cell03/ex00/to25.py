@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 number = int(input("Enter a number: "))
 if number <= 25:
     while number < 26:

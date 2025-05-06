@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 n = input("Enter the number: ")
 number = int(n)
 

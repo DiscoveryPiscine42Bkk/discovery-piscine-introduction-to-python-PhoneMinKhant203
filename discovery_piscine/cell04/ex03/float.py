@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 x = input("Enter a number: ")
 
 number = float(x)

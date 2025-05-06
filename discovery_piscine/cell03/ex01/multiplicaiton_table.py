@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 number = int(input("Enter a number: "))
 if number > 0:
     x = 0
